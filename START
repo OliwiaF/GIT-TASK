@@ -34,6 +34,7 @@
                     <input type="password" class="form-control" placeholder="Wpisz hasło">
         </div>
                 <a href= "https://getbootstrap.com/docs/4.3/components/badge/#links" class="btn btn-primary">Wciśnij mnie</a>
+                <a href= "https://fly.pl/wp-content/uploads/2014/10/Santorini-Oia-i-kaldera.jpg" class="btn btn-primary">CYK! Nowy link</a>
             </form>
         </div>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hieronymus_Bosch_-_The_Seven_Deadly_Sins_%28detail%29_-_WGA2501.jpg/640px-Hieronymus_Bosch_-_The_Seven_Deadly_Sins_%28detail%29_-_WGA2501.jpg" class="img-fluid" alt="Bosch">
