@@ -7,3 +7,8 @@ Może być pomocne:
 https://learngitbranching.js.org/
 
 Oprócz sprawdzenia zadania będzie odpytka z gita
+
+NEXT na 23.06.2019:
+dwuetapowa autentykacja;
+niepoprawne rozszerzenie pliku;
+praca z poziomu konsoli - checkout repozytorium, pull, commit, push.
