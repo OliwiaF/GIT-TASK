@@ -1,0 +1,15 @@
+﻿Użyte komendy:
+* git --version
+* git config --global user.email "..."
+* git init 
+*git clone "...".git
+*git config --global user.email
+*cd (zmiana folderu) - mogę przez podanie samej nazwy folderu
+*git add zadanie.html
+*git commit -m "Testowy commit"
+*git push origin master
+*git branch NewBranch
+*git checkout NewBranch/master (zmiana brancha)
+*git add plikjpg.jpg
+*ls (gdzie jestem - zawartość folderu)
+
