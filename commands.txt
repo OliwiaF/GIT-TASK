@@ -13,3 +13,10 @@
 *git add plikjpg.jpg
 *ls (gdzie jestem - zawartość folderu)
 
+git config --list - do sprawdzenia bieżących ustawień
+
+git status - pokazuje gdzie w folderze jesteśmy
+
+cd c:/Projekt
+
+$ git clone 
